@@ -1,0 +1,12 @@
+# git error 시 Reference
+https://okky.kr/articles/1359311
+https://thisblogbusy.tistory.com/entry/Git-Basics-Recording-Changes-to-the-Repository
+
+git status
+git init
+git add .
+git commit -m "commit"
+git branch -M main
+git push -u origin main
+git pull
+git clone https://github.com/aaaa.git
