@@ -2,6 +2,9 @@
 https://okky.kr/articles/1359311
 https://thisblogbusy.tistory.com/entry/Git-Basics-Recording-Changes-to-the-Repository
 
+#git bundle
+https://www.youtube.com/watch?v=AVYlKbbA77M&t=134s
+
 git status
 git init
 git add .
