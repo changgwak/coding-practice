@@ -40,4 +40,5 @@ print()
 visited = [False] * (N + 1)
 q = [V]
 bfs()
-출처: https://coding-grandpa.tistory.com/117 [개발자로 취직하기:티스토리]
+
+#출처: https://coding-grandpa.tistory.com/117 [개발자로 취직하기:티스토리]
